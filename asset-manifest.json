@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1dcba6a4.chunk.css",
-    "main.js": "/portfolio/static/js/main.ecca72d4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ecca72d4.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/portfolio/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.20fc7818.chunk.js": "/portfolio/static/js/2.20fc7818.chunk.js",
-    "static/js/2.20fc7818.chunk.js.map": "/portfolio/static/js/2.20fc7818.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/portfolio/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.1dcba6a4.chunk.css.map": "/portfolio/static/css/main.1dcba6a4.chunk.css.map",
-    "static/js/2.20fc7818.chunk.js.LICENSE.txt": "/portfolio/static/js/2.20fc7818.chunk.js.LICENSE.txt",
-    "static/media/images.css": "/portfolio/static/media/project6.bec0b16f.png",
-    "static/media/mongo.1df44ece.png": "/portfolio/static/media/mongo.1df44ece.png"
+    "main.css": "./static/css/main.4e8dfa16.chunk.css",
+    "main.js": "./static/js/main.ecca72d4.chunk.js",
+    "main.js.map": "./static/js/main.ecca72d4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.eac7fa23.js",
+    "runtime-main.js.map": "./static/js/runtime-main.eac7fa23.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "./static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.20fc7818.chunk.js": "./static/js/2.20fc7818.chunk.js",
+    "static/js/2.20fc7818.chunk.js.map": "./static/js/2.20fc7818.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "./static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.4e8dfa16.chunk.css.map": "./static/css/main.4e8dfa16.chunk.css.map",
+    "static/js/2.20fc7818.chunk.js.LICENSE.txt": "./static/js/2.20fc7818.chunk.js.LICENSE.txt",
+    "static/media/images.css": "./static/media/project6.bec0b16f.png",
+    "static/media/mongo.1df44ece.png": "./static/media/mongo.1df44ece.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcd5af5a.js",
+    "static/js/runtime-main.eac7fa23.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.20fc7818.chunk.js",
-    "static/css/main.1dcba6a4.chunk.css",
+    "static/css/main.4e8dfa16.chunk.css",
     "static/js/main.ecca72d4.chunk.js"
   ]
 }
